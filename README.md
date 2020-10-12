@@ -1,4 +1,4 @@
-#Color-Game
+<h1>Color Game</h1>
 
 A simple RGB color guessing game built with javascript. There are two difficulties: easy and hard.
 
