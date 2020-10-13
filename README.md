@@ -8,6 +8,8 @@ Extract the files from the zipped folder named Color-Game-master.
 
 Open Color-Game-master folder and open the file named colorGame.html.
 
+To play, click on which color you think coresspeonds to the correct RBG listed at the top
+
 ![Screenshot](https://github.com/ryankinnard/Color-Game/blob/master/RBG.png)
 
 
