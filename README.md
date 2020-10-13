@@ -6,7 +6,7 @@ To play either download zip or clone repository (git clone https://github.com/ry
 
 Extract the files from the zipped folder named Color-Game-master. 
 
-Open Color-Game-master folder and double click on the file named colorGame.html.
+Open Color-Game-master folder and open the file named colorGame.html.
 
 ![Screenshot](https://github.com/ryankinnard/Color-Game/blob/master/RBG.png)
 
